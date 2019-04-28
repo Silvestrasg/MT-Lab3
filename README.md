@@ -1,4 +1,12 @@
 # MT-Lab3
+
+ISBANDYTA SU:
+* Microsoft Edge 42.17134.1.0 
+* Google Chrome 73.0.3683.103
+
+Alternatyva B
+Sukurtas naujas žymeklis, kuris aptinkamas ir atvaizduojamas trimatis elementas
+
 LT
 Šio laboratorinio darbo tikslas - sukurti pirmąją papildytos realybės (AR) taikomąją programėlę/aplikaciją.
 
